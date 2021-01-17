@@ -1,14 +1,4 @@
 
-
-/*
-
-Author: Bootstrapthemes
-Author URI: http://bootstrapthemes.co
-
-*/
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
 html,
 body {
     background-color: #1E2E3B;
@@ -653,9 +643,9 @@ a.navbar-brand.our_logo{
 
 /* slider section */
 
-.slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
-	background-size:cover;
+.slider {
+    background: url(../images/gtbtgigg.gif) center center no-repeat;
+    background-size: cover;
 }
 .main_slider {
 
@@ -707,7 +697,7 @@ font-size: 6rem;
 
 /* Features section css */
 .features{
-	background:url(../images/ftbg.jpg) center center no-repeat;
+	background: url(../images/aboutusbg.jpg) no-repeat center top scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
